@@ -27,10 +27,8 @@ For all iDaaS design patterns it should be assumed that you will either install 
 
 1. An existing Kafka (or some flavor of it) up and running. Red Hat currently implements AMQ-Streams based on Apache Kafka; however, we
 have implemented iDaaS with numerous Kafka implementations. Please see the following files we have included to try and help:<br/>
-<a href="https://github.com/RedHat-Healthcare/iDaaS-Demos/blob/master/Kafka.md" target="_blank">
-Kafka</a><br/>
-<a href="https://github.com/RedHat-Healthcare/iDaaS-Demos/blob/master/KafkaWindows.md" target="_blank">
-Kafka Windows</a><br/>
+[Kafka](https://github.com/RedHat-Healthcare/iDaaS-Demos/blob/master/Kafka.md)<br/>
+[Kafka on Windows](https://github.com/RedHat-Healthcare/iDaaS-Demos/blob/master/KafkaWindows.md)
 2. Some understanding of building, deploying Java artifacts and the commands associated
 3. An internet connection with active internet connectivity, this is to ensure that if any Maven commands are
 run and any libraries need to be pulled down they can.
