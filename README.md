@@ -47,13 +47,13 @@ As you look at this visual notice we DO NOT take a target data position to build
 show a sample endpoint for strickly closing the loop on data processing. <br/>
 
 ## 100 - General Background
-101	<a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/ca3bcf23-e655-4cdc-a7e3-a82d42845194" target="_blank">
+101 -	<a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/ca3bcf23-e655-4cdc-a7e3-a82d42845194" target="_blank">
 Open Source in Healthcare</a><br/>
-102<a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/854a7f94-82a2-4e9f-ba9b-947efddf6799" target="_blank">
+102 - <a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/854a7f94-82a2-4e9f-ba9b-947efddf6799" target="_blank">
 What is iDaaS</a><br/>
-103	<a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/d9f299c9-40f2-442e-bdb2-d93380b574a7" target="_blank">
+103	- <a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/d9f299c9-40f2-442e-bdb2-d93380b574a7" target="_blank">
 Git Hub General Improvements</a> <br/>
-104 <a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/1b2ae439-9eb7-4250-bbdc-271c26d76292" target="_blank">
+104 - <a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/1b2ae439-9eb7-4250-bbdc-271c26d76292" target="_blank">
 Git Hub Repository Geenral Overview</a> <br/>
 
 ## 200 - Basic Messaging and Data Routing 
