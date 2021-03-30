@@ -27,8 +27,7 @@ The following section is meant to define and also help visualize the general arc
 (payer/provider/life sciences) implementation.
 ![https://github.com/RedHat-Healthcare/iDAAS/blob/master/content/images/iDAAS-Platform/iDAAS%20Platform%20-%20Visuals%20-%20iDaaS%20Data%20Flow%20-%20Detailed.png](https://github.com/RedHat-Healthcare/iDAAS/blob/master/content/images/iDAAS-Platform/iDAAS%20Platform%20-%20Visuals%20-%20iDaaS%20Data%20Flow%20-%20Detailed.png)
 
-As you look at this visual notice we DO NOT take a target data position to build, we believe that is a customers to shape for their specific business needs. We are working on creating a demonstration to  
-show a sample endpoint for strickly closing the loop on data processing. <br/>
+As you look at this visual notice we DO NOT take a target data position to build, we believe that is a customers to shape for their specific business needs. We are working on creating a demonstration to show a sample endpoint for strickly closing the loop on data processing. <br/>
 
 # The Lunch and Learn Course Track
 The following section covers the entire Lunch and Lean Course Track.
