@@ -35,9 +35,10 @@ The following section covers the entire Lunch and Lean Course Track.
 | Course Level | Description |
 | ------------ | ----------- |
 | 100      | General Background |
-| 200      | Basic Messaging and Data Routing |
-| 300      | Basic Messaging and Data Processing | 
-| 400      | Auditing and Insight |
+| 200      | Architectural Design |
+| 300      | Insight and Conformance |
+| 400      | Basic Messaging and Data Routing |
+| 500      | Basic Messaging and Data Processing | 
 <br/>
 
 All Lunch and Learn Activities Leverage the existing iDaaS-Demos repository located
@@ -60,7 +61,7 @@ Git Hub Repository General Overview</a> <br/>
 201	Architectural Design Pattern for Accelerators and Platforms - <br/>
 
 ## 300 - Insight and Conformance
-301 iDaaS KIC 
+301 iDaaS KIC - <br/>
 
 ### 400 - Basic Messaging and Data Routing 
 401	iDaaS Connect HL7 - <br/>
