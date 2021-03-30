@@ -60,7 +60,7 @@ Git Hub Repository General Overview</a> <br/>
 ### 200 - Architectural Design 
 201	Architectural Design Pattern for Accelerators and Platforms - <br/>
 
-## 300 - Insight and Conformance
+### 300 - Insight and Conformance
 301 iDaaS KIC - <br/>
 
 ### 400 - Basic Messaging and Data Routing 
