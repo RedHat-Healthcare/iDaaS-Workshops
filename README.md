@@ -54,18 +54,23 @@ What is iDaaS</a><br/>
 103	- <a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/d9f299c9-40f2-442e-bdb2-d93380b574a7" target="_blank">
 Git Hub General Improvements</a> <br/>
 104 - <a href="https://www.screencast.com/users/RedHatHealthcare/folders/Videos%20-%20iDaaS/media/1b2ae439-9eb7-4250-bbdc-271c26d76292" target="_blank">
-Git Hub Repository Geenral Overview</a> <br/>
+Git Hub Repository General Overview</a> <br/>
 
-### 200 - Basic Messaging and Data Routing 
-201	iDaaS Connect HL7 - <br/>
-202 iDaaS Connect FHIR - 	<br/>
-203 iDaaS Connect Third Party -<br/>
-204 Basic Messaging and Routing	<br/>
+### 200 - Architectural Design 
+201	Architectural Design Pattern for Accelerators and Platforms - <br/>
 
-### 300 - Basic Messaging and Data Processing
-301	iDaaS Connect HL7 - <br/>
-302 iDaaS Connect FHIR - 	<br/>
-303 iDaaS DREAM (Intelligent Routing) - X <br/>
+## 300 - Insight and Conformance
+301 iDaaS KIC 
 
-## 400 - Auditing and Insight
-401 iDaaS KIC 
+### 400 - Basic Messaging and Data Routing 
+401	iDaaS Connect HL7 - <br/>
+402 iDaaS Connect FHIR - 	<br/>
+403 iDaaS Connect Third Party -<br/>
+404 Basic Messaging and Routing	<br/>
+
+### 500 - Basic Messaging and Data Processing
+501	iDaaS Connect HL7 - <br/>
+502 iDaaS Connect FHIR - 	<br/>
+503 iDaaS DREAM (Intelligent Routing) - X <br/>
+
+Happy coding!!!!
